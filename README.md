@@ -3,7 +3,6 @@ Basic Info & DNI
 About Me
 Name / Nickname: Faust / Grimm / Renni
 Pronouns: It/Its
-Age / Age Range: Minor
 Birthday: 10/26
 Timezone: EST
 Interests: Project Moon, Malware, Computers
